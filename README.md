@@ -1,2 +1,1 @@
-# QR_Code_Generator
-this is my QR code generator
+The project involves generating a QR code that encodes a specific URL. Using the qrcode library in Python, the code creates a QR code with high error correction, a box size of 10 pixels, and a border width of 4 boxes. The generated QR code features a red foreground and a blue background, and is saved as an image file named chatgpt_web.png. This project demonstrates basic QR code creation and customization techniques with Python.
